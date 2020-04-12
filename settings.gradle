@@ -1,0 +1,2 @@
+rootProject.name='jsonbasics'
+include ':app'
