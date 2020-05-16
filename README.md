@@ -6,11 +6,6 @@ This is to show various applications so JSON in android.
 
 
 
-# QRbuddy
-
-QR buddy is an Android  application in Kotlin that can be used to generate as well as scan QR codes and send the info to Firebase databse.
-
-
 # Developing Environment 
 
 ## Kotlin 
